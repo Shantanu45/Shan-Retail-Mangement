@@ -1,2 +1,2 @@
-# Shan-Retail-Mangement
+# Shan Retail Mangement
 A Retail Management System
