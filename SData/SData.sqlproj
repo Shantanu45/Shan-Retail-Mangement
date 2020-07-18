@@ -65,4 +65,14 @@
   <ItemGroup>
     <None Include="PublishLocations\SData.publish.xml" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="dbo\Tables\User_2.sql" />
+    <Build Include="dbo\Tables\Sale_1.sql" />
+    <Build Include="dbo\Tables\SaleDetail_1.sql" />
+    <Build Include="dbo\Tables\Product.sql" />
+    <Build Include="dbo\Tables\Inventory.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="SData.refactorlog" />
+  </ItemGroup>
 </Project>
